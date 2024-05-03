@@ -1,0 +1,17 @@
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\bin\Debug\UserInterface.exe.config
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\bin\Debug\UserInterface.exe
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\bin\Debug\UserInterface.pdb
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.csproj.AssemblyReference.cache
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.Menu.resources
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.Prestamos.resources
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.exe
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.pdb
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.Altas.resources
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.Libros.resources
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.AddAutor.resources
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.AddLibro.resources
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.Autores.resources
+C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.ConsultarPrestamos.resources
