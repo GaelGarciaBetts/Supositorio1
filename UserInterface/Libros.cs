@@ -20,7 +20,7 @@ namespace UserInterface
         private void button1_Click(object sender, EventArgs e)
         {
             AddLibro frmAddLibro = new AddLibro();
-            frmAddLibros.ShowDialog();
+            frmAddLibro.ShowDialog();
         }
     }
 }
