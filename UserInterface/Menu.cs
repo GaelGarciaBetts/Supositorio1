@@ -37,7 +37,7 @@ namespace UserInterface
 
         private void bttn_salir_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
     }
 }

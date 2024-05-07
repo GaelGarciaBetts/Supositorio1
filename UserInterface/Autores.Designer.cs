@@ -38,7 +38,7 @@
             this.bttn_addAutor.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bttn_addAutor.Location = new System.Drawing.Point(13, 13);
             this.bttn_addAutor.Name = "bttn_addAutor";
-            this.bttn_addAutor.Size = new System.Drawing.Size(145, 44);
+            this.bttn_addAutor.Size = new System.Drawing.Size(167, 44);
             this.bttn_addAutor.TabIndex = 0;
             this.bttn_addAutor.Text = "Agregar Autor";
             this.bttn_addAutor.UseVisualStyleBackColor = true;

@@ -59,9 +59,9 @@
             // bttn_autores
             // 
             this.bttn_autores.Font = new System.Drawing.Font("Comic Sans MS", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttn_autores.Location = new System.Drawing.Point(546, 133);
+            this.bttn_autores.Location = new System.Drawing.Point(525, 133);
             this.bttn_autores.Name = "bttn_autores";
-            this.bttn_autores.Size = new System.Drawing.Size(140, 48);
+            this.bttn_autores.Size = new System.Drawing.Size(172, 48);
             this.bttn_autores.TabIndex = 2;
             this.bttn_autores.Text = "AUTORES";
             this.bttn_autores.UseVisualStyleBackColor = true;
@@ -80,13 +80,14 @@
             // 
             // bttn_salir
             // 
+            this.bttn_salir.BackColor = System.Drawing.Color.WhiteSmoke;
             this.bttn_salir.Font = new System.Drawing.Font("Comic Sans MS", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bttn_salir.Location = new System.Drawing.Point(539, 390);
             this.bttn_salir.Name = "bttn_salir";
             this.bttn_salir.Size = new System.Drawing.Size(213, 48);
             this.bttn_salir.TabIndex = 4;
             this.bttn_salir.Text = "LASIR pafuera";
-            this.bttn_salir.UseVisualStyleBackColor = true;
+            this.bttn_salir.UseVisualStyleBackColor = false;
             this.bttn_salir.Click += new System.EventHandler(this.bttn_salir_Click);
             // 
             // Menu
@@ -100,7 +101,7 @@
             this.Controls.Add(this.bttn_libros);
             this.Controls.Add(this.lbl_titulo);
             this.Name = "Menu";
-            this.Text = "Form1";
+            this.Text = "Menu";
             this.ResumeLayout(false);
             this.PerformLayout();
 
