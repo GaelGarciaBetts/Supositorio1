@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BibliotecaModelStoreContainer" CdmEntityContainer="BibliotecaEntities1">
+    <EntitySetMapping Name="Autores">
+      <EntityTypeMapping TypeName="BibliotecaModel.Autores">
+        <MappingFragment StoreEntitySet="Autores">
+          <ScalarProperty Name="IDAutor" ColumnName="IDAutor" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellidos" ColumnName="Apellidos" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Libros">
+      <EntityTypeMapping TypeName="BibliotecaModel.Libros">
+        <MappingFragment StoreEntitySet="Libros">
+          <ScalarProperty Name="IDLibro" ColumnName="IDLibro" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Disponibilidad" ColumnName="Disponibilidad" />
+          <ScalarProperty Name="IDAutor" ColumnName="IDAutor" />
+          <ScalarProperty Name="Editorial" ColumnName="Editorial" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Prestamos">
+      <EntityTypeMapping TypeName="BibliotecaModel.Prestamos">
+        <MappingFragment StoreEntitySet="Prestamos">
+          <ScalarProperty Name="IDPrestamo" ColumnName="IDPrestamo" />
+          <ScalarProperty Name="NombrePersona" ColumnName="NombrePersona" />
+          <ScalarProperty Name="IDLibro" ColumnName="IDLibro" />
+          <ScalarProperty Name="FechaPrestamoInicio" ColumnName="FechaPrestamoInicio" />
+          <ScalarProperty Name="FechaPrestamoFin" ColumnName="FechaPrestamoFin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

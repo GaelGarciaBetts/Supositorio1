@@ -1,0 +1,12 @@
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\bin\Debug\Database.dll.config
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\bin\Debug\Database.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\bin\Debug\Database.pdb
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\bin\Debug\EntityFramework.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\bin\Debug\EntityFramework.SqlServer.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\bin\Debug\EntityFramework.xml
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\bin\Debug\EntityFramework.SqlServer.xml
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\obj\Debug\Database.csproj.Up2Date
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\obj\Debug\Database.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\Database\obj\Debug\Database.pdb

@@ -1,0 +1,14 @@
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\obj\Debug\BsnLogic.csproj.AssemblyReference.cache
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\obj\Debug\BsnLogic.csproj.CoreCompileInputs.cache
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\bin\Debug\BsnLogic.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\bin\Debug\BsnLogic.pdb
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\bin\Debug\DataInterface.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\bin\Debug\Database.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\bin\Debug\EntityFramework.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\bin\Debug\DataInterface.pdb
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\bin\Debug\Database.pdb
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\bin\Debug\Database.dll.config
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\bin\Debug\EntityFramework.xml
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\obj\Debug\BsnLogic.csproj.Up2Date
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\obj\Debug\BsnLogic.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\BsnLogic\obj\Debug\BsnLogic.pdb
