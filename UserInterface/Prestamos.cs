@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BsnLogic;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -26,6 +27,19 @@ namespace UserInterface
         {
             ConsultarPrestamos frmConsultarPrestamos = new ConsultarPrestamos();
             frmConsultarPrestamos.ShowDialog();
+        }
+
+        private void btn_agregar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                var libroSelected = (DO_Libro) cbo_libro.SelectedItem;
+                BL_Prestamo.InsertOrUpdate(0, txt_nombre.Text, libroSelected.idLibro, dte_inicio.Value, dte_limite.Value);
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Ingrese los datos corretamente", "Alerta");
+            }
         }
     }
 }

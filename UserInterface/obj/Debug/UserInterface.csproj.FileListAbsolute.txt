@@ -14,3 +14,31 @@ C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\U
 C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.AddLibro.resources
 C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.Autores.resources
 C:\ITA\ProgrameiChoM 2\Sistema de Gestion de Bibioteca\UserInterface\obj\Debug\UserInterface.ConsultarPrestamos.resources
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\UserInterface.exe.config
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\UserInterface.exe
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\UserInterface.pdb
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.csproj.AssemblyReference.cache
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.AddAutor.resources
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.AddLibro.resources
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.Autores.resources
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.ConsultarPrestamos.resources
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.Libros.resources
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.Menu.resources
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.Prestamos.resources
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.exe
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInterface.pdb
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\EntityFramework.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\EntityFramework.xml
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\obj\Debug\UserInte.9C7395B8.Up2Date
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\BsnLogic.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\DataInterface.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\Database.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\BsnLogic.pdb
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\DataInterface.pdb
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\Database.pdb
+D:\Usuarios 2.0\Descargas\Supositorio1-main\UserInterface\bin\Debug\Database.dll.config

@@ -39,18 +39,18 @@
             // 
             this.lbl_titulo.AutoSize = true;
             this.lbl_titulo.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_titulo.Location = new System.Drawing.Point(194, 9);
+            this.lbl_titulo.Location = new System.Drawing.Point(281, 25);
             this.lbl_titulo.Name = "lbl_titulo";
-            this.lbl_titulo.Size = new System.Drawing.Size(366, 41);
+            this.lbl_titulo.Size = new System.Drawing.Size(210, 41);
             this.lbl_titulo.TabIndex = 0;
-            this.lbl_titulo.Text = "BIBLIOTECA PERRONA";
+            this.lbl_titulo.Text = "BIBLIOTECA";
             // 
             // bttn_libros
             // 
             this.bttn_libros.Font = new System.Drawing.Font("Comic Sans MS", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttn_libros.Location = new System.Drawing.Point(103, 133);
+            this.bttn_libros.Location = new System.Drawing.Point(63, 133);
             this.bttn_libros.Name = "bttn_libros";
-            this.bttn_libros.Size = new System.Drawing.Size(114, 48);
+            this.bttn_libros.Size = new System.Drawing.Size(134, 48);
             this.bttn_libros.TabIndex = 1;
             this.bttn_libros.Text = "LIBROS";
             this.bttn_libros.UseVisualStyleBackColor = true;
@@ -59,9 +59,9 @@
             // bttn_autores
             // 
             this.bttn_autores.Font = new System.Drawing.Font("Comic Sans MS", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttn_autores.Location = new System.Drawing.Point(525, 133);
+            this.bttn_autores.Location = new System.Drawing.Point(543, 134);
             this.bttn_autores.Name = "bttn_autores";
-            this.bttn_autores.Size = new System.Drawing.Size(172, 48);
+            this.bttn_autores.Size = new System.Drawing.Size(209, 48);
             this.bttn_autores.TabIndex = 2;
             this.bttn_autores.Text = "AUTORES";
             this.bttn_autores.UseVisualStyleBackColor = true;
@@ -70,9 +70,9 @@
             // bttn_prestamos
             // 
             this.bttn_prestamos.Font = new System.Drawing.Font("Comic Sans MS", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttn_prestamos.Location = new System.Drawing.Point(292, 133);
+            this.bttn_prestamos.Location = new System.Drawing.Point(268, 134);
             this.bttn_prestamos.Name = "bttn_prestamos";
-            this.bttn_prestamos.Size = new System.Drawing.Size(178, 48);
+            this.bttn_prestamos.Size = new System.Drawing.Size(223, 48);
             this.bttn_prestamos.TabIndex = 3;
             this.bttn_prestamos.Text = "PRESTAMOS";
             this.bttn_prestamos.UseVisualStyleBackColor = true;
@@ -82,11 +82,11 @@
             // 
             this.bttn_salir.BackColor = System.Drawing.Color.WhiteSmoke;
             this.bttn_salir.Font = new System.Drawing.Font("Comic Sans MS", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttn_salir.Location = new System.Drawing.Point(539, 390);
+            this.bttn_salir.Location = new System.Drawing.Point(643, 390);
             this.bttn_salir.Name = "bttn_salir";
-            this.bttn_salir.Size = new System.Drawing.Size(213, 48);
+            this.bttn_salir.Size = new System.Drawing.Size(109, 48);
             this.bttn_salir.TabIndex = 4;
-            this.bttn_salir.Text = "LASIR pafuera";
+            this.bttn_salir.Text = "Salir";
             this.bttn_salir.UseVisualStyleBackColor = false;
             this.bttn_salir.Click += new System.EventHandler(this.bttn_salir_Click);
             // 
