@@ -1,0 +1,12 @@
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\obj\Debug\DataInterface.csproj.AssemblyReference.cache
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\obj\Debug\DataInterface.csproj.CoreCompileInputs.cache
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\bin\Debug\DataInterface.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\bin\Debug\DataInterface.pdb
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\bin\Debug\Database.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\bin\Debug\EntityFramework.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\bin\Debug\Database.pdb
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\bin\Debug\Database.dll.config
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\bin\Debug\EntityFramework.xml
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\obj\Debug\DataInte.B6739CF3.Up2Date
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\obj\Debug\DataInterface.dll
+D:\Usuarios 2.0\Descargas\Supositorio1-main\DataInterface\obj\Debug\DataInterface.pdb
